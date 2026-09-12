@@ -253,50 +253,7 @@ The next iteration would focus on improving the parts of the system that current
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd hiver-sde-assignment
-
-### 2. Create and activate a virtual environment
-
-Windows PowerShell:
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-
-### 3. Install dependencies
-
-```powershell
-pip install -r requirements.txt
-
-### 4. Run the evaluation
-
-```powershell
-python -m src.evaluate
-
-### 5. Run the command-line prototype
-
-```powershell
-python -m src.main
-
-### 6. Run the API
-
-Start the FastAPI backend with:
-
-```powershell
-uvicorn src.api:app --reload
-
-### 7. Run the frontend
-
-In a second terminal, start the frontend server:
-
-```powershell
-python -m http.server 5500 --directory frontend
-
-### 8. Optional Gemini Setup
-
-Gemini is used for optional AI-generated reply drafting.
-
-Create a `.env` file in the project root:
+git clone https://github.com/Alkadhaked5/verizon-support-agent.git
+cd verizon-support-agent
 
 
