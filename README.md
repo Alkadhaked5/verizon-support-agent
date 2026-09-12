@@ -85,7 +85,7 @@ Customer Message
            |
            v
       Draft Reply
-
+```
 ## Evaluation Setup
 
 ### Golden Set
