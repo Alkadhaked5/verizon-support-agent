@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+twcs.csv
+sample_200_customer_messages.csv

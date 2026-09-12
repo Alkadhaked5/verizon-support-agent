@@ -1,0 +1,208 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,intent
+498663,234048,True,Fri Dec 01 19:08:04 +0000 2017,@VerizonSupport It’s a cellular account,498662,498664.0,account_issue
+1656972,505609,True,Mon Nov 06 03:59:16 +0000 2017,@VerizonSupport I'll send you a screenshot.,1656976,1656971.0,other
+223798,169474,True,Thu Oct 05 04:29:20 +0000 2017,@VerizonSupport Multiple people have been having the same problem,,223797.0,service_outage
+2648727,747201,True,Sun Nov 19 06:05:20 +0000 2017,@VerizonSupport The customer representative who helped me was not helpful and blaming me ! The only mistake I did is trusting that store manager ! It’s my hard earned money which I was been cheated !,2648725,2648728.0,complaint_feedback
+968869,349991,True,Sat Oct 14 06:57:24 +0000 2017,@VerizonSupport FIOS-V0MQP,968870,968868.0,account_issue
+388681,207969,True,Mon Oct 09 14:20:49 +0000 2017,@VerizonSupport hi! i got someone…surprisingly faster than the robot lady said. which is good news,388693,388680.0,support_request
+828149,317287,True,Fri Oct 13 02:21:11 +0000 2017,"@VerizonSupport It’s been time honestly, I’m just hoping my building gets fios soon is there any way to request it ?",828148,828150.0,installation_availability
+1820523,475058,True,Sun Oct 29 08:03:52 +0000 2017,@VerizonSupport Give me a number to call now. Forget this DM.,1820524,1820518.0,support_request
+2838857,790054,True,Tue Nov 28 02:12:13 +0000 2017,"@VerizonSupport Wait a second, there are no contracts with Spectrum / Brighthouse",2838858,2838856.0,other
+1743204,504912,True,Tue Nov 07 14:41:14 +0000 2017,@VerizonSupport Well it could be but somehow the chat was disconnected after I finish typing everything for the millionth time  😡,,1743203.0,support_request
+415600,190140,True,Tue Oct 10 02:47:14 +0000 2017,@VerizonSupport I have to go outside to make a phone call service doesn’t work in the house,,415599.0,mobile_phone_issue
+2217,116210,True,Tue Oct 31 22:32:20 +0000 2017,@VerizonSupport Banking. https://t.co/8535p04F9S,2216,2218.0,other
+1263558,415918,True,Thu Oct 26 13:00:45 +0000 2017,"@VerizonSupport That did it, thanks",,1263556.0,complaint_feedback
+2874563,798027,True,Tue Nov 28 04:33:11 +0000 2017,"@VerizonSupport Installed Saturday, issue reported Saturday, response came via voicemail that said 7-10 business days...the Twitter response time is impeccable though in comparison",2874562,2874564.0,installation_availability
+1771027,477566,True,Wed Nov 08 02:22:34 +0000 2017,@VerizonSupport Thank you so much!!! #CustomerServicedoneright,1771026,1771028.0,complaint_feedback
+2380535,686389,True,Tue Nov 14 06:09:58 +0000 2017,"@VerizonSupport Went with channel 11 for 2.4GHz, 161 for 5GHz. Laptop can now pickup the 5GHz band again but only when close to the router, seems installed Extender isn't working very far, iPhone still not even recognizing 5GHz.",2380536,2380534.0,router_equipment_issue
+272065,180926,True,Fri Oct 06 03:05:49 +0000 2017,@VerizonSupport I currently have FiOS and it is down,272063,272066.0,service_outage
+1196568,401147,True,Fri Oct 27 20:22:04 +0000 2017,"@VerizonSupport After all the phone calls with tech support, issue still persists and you wanna give me a refurbished phone. Unreal.",,1196567.0,mobile_phone_issue
+2374962,675890,True,Tue Nov 14 03:36:36 +0000 2017,@VerizonSupport Yes,2374963,2374961.0,other
+493628,232684,True,Fri Dec 01 17:18:06 +0000 2017,"@VerizonSupport Yes, i know.",493627,493629.0,other
+1943496,577828,True,Mon Oct 30 03:32:56 +0000 2017,@VerizonSupport I'm sure I can.  What are you driving at?,1943497,1943495.0,other
+1196583,401149,True,Wed Oct 25 03:26:01 +0000 2017,@VerizonSupport I'm using everything from default so whatever came with the router.,1196584,1196582.0,router_equipment_issue
+1684084,511813,True,Mon Nov 06 20:03:11 +0000 2017,@VerizonSupport I am trying to get some answers on credits that I have as supposed to be issued and no one can help,,1684082.0,billing_payment_issue
+714498,290906,True,Tue Oct 10 23:41:06 +0000 2017,@VerizonSupport I do not. Don't worry - I was able to go thru the automated service. I will use that. Thanks!,,714497.0,support_request
+2017381,596601,True,Sun Nov 05 23:23:47 +0000 2017,"@VerizonSupport @115990 Thanks, I restarted my phone and it went through, false alarm.",,2017380.0,mobile_phone_issue
+588229,259011,True,Sun Dec 03 16:03:04 +0000 2017,"@VerizonSupport Yeah, but sometimes you want to watch 1 good game. We have the Jet game and they suck. I hate how redzone flashes between games when you want to watch one good game. Patriots, Steelers &amp; Philly super bowl teams and we never ever get those games. Theyre east coast teams.",588227,588230.0,tv_channel_issue
+1205104,403057,True,Tue Oct 17 01:49:09 +0000 2017,@VerizonSupport This is what I'm seeing. It's mounted about 7' off ground in basement https://t.co/dTVCwFGbfm,1205101,1205111.0,router_equipment_issue
+1709711,518025,True,Tue Nov 07 01:24:01 +0000 2017,@VerizonSupport @115990 Your story is tiresome,,1709710.0,complaint_feedback
+1237027,363096,True,Mon Oct 16 01:56:40 +0000 2017,@VerizonSupport I did that after last week and no change.  All other channels are fine,1237025,1237028.0,tv_channel_issue
+1526632,474072,True,Wed Oct 18 01:11:03 +0000 2017,@VerizonSupport 1 tv ...I want refund of 1 month. I looked forward all year to 1 game &amp; spent it on hold for 3 hrs w Verizon switched back &amp; forth,1526634,1526631.0,billing_payment_issue
+1852232,554334,True,Mon Oct 30 00:36:57 +0000 2017,"@VerizonSupport According to the site,  everything is good.",1852231,1852233.0,service_outage
+2548876,286702,True,Mon Oct 30 14:03:26 +0000 2017,@VerizonSupport I have FiOS and am only using Verizon equipment. I'm 1 room over from the primary router...maybe 15 feet.,2548878,2548873.0,internet_wifi_issue
+1420457,201376,True,Thu Nov 02 01:28:11 +0000 2017,@VerizonSupport @450224 To bad you don't offer that to current customers in appreciation of their loyalty,1420458,1420455.0,complaint_feedback
+271448,180779,True,Fri Oct 06 02:34:54 +0000 2017,@VerizonSupport South Jersey,271445,271468.0,installation_availability
+418327,214803,True,Tue Oct 10 04:17:30 +0000 2017,"@VerizonSupport Yeah, been checking for the past 2 years. Your franchise agreement requires you to be done by now.",,418325.0,installation_availability
+2870847,797154,True,Thu Nov 30 02:58:14 +0000 2017,@VerizonSupport No.,2870848,2870846.0,other
+2483003,709397,True,Sun Oct 29 23:42:49 +0000 2017,@VerizonSupport Actiontec wcb6200q,,2483002.0,router_equipment_issue
+2259946,331132,True,Sun Nov 26 14:54:41 +0000 2017,@VerizonSupport Done,,2259945.0,other
+2985973,132258,True,Thu Nov 30 06:44:32 +0000 2017,@VerizonSupport I wish Fios. Unforunately you’re still not available here.,,72395.0,installation_availability
+114789,141521,True,Thu Nov 23 22:16:22 +0000 2017,"@VerizonSupport YO, you cant look at my account info and see wtf is going on with my account. DAMN!",114790,114788.0,account_issue
+1940801,141424,True,Wed Oct 18 16:06:52 +0000 2017,@VerizonSupport Thank you,1940800,1940802.0,complaint_feedback
+307769,189480,True,Sun Oct 08 01:00:01 +0000 2017,@VerizonSupport just the main one in the living room,307770,307768.0,router_equipment_issue
+408631,212415,True,Mon Oct 09 22:52:27 +0000 2017,@VerizonSupport And here's the conf that's different. https://t.co/XYVmZcRpn0,,408630.0,router_equipment_issue
+413568,213704,True,Sun Nov 05 19:17:18 +0000 2017,@VerizonSupport Yep,413566,413575.0,other
+2307440,347500,True,Thu Oct 19 21:31:05 +0000 2017,"@VerizonSupport Just found a back way in, I'm ok now, thanks you.",2307442,2307439.0,other
+363200,202050,True,Sun Oct 08 21:05:57 +0000 2017,"@VerizonSupport yes, both version 5.9",363201,363199.0,other
+2802934,139084,True,Wed Nov 22 01:36:04 +0000 2017,@VerizonSupport Just hung up with a very helpful rep,2802933,2802935.0,complaint_feedback
+2562530,727204,True,Sun Nov 26 20:31:14 +0000 2017,@VerizonSupport Yeah,2562528,2562534.0,other
+2550078,724503,True,Mon Oct 30 14:54:36 +0000 2017,@VerizonSupport How do I get to actually speak to someone? I pay extra for tech support! This is horrendous!,"2550079,2550080",2550076.0,support_request
+339381,185054,True,Sat Oct 07 23:38:46 +0000 2017,@VerizonSupport Tried that. You told me to check back tomorrow at 2 what a joke,,339380.0,complaint_feedback
+590282,259595,True,Sun Dec 03 16:54:35 +0000 2017,@VerizonSupport I've checked before - spent lots of time on chat with reps trying to get a decent deal. No dice. Just checked today &amp; it's still double what new customers are offered. DOUBLE.,,590281.0,complaint_feedback
+630242,269352,True,Thu Nov 23 16:03:50 +0000 2017,@VerizonSupport @269326 you can shoot yourself in the fucking face,,630221.0,other
+747092,298606,True,Wed Oct 11 17:02:27 +0000 2017,"@VerizonSupport I had already placed my number on the Do not Call registry, short of calling the police what are my options here?",,747090.0,support_request
+544704,246575,True,Sat Dec 02 16:49:50 +0000 2017,@VerizonSupport Yes. It seems others have replied in the same area that seems to be an issue in the NYC area.,544725,544702.0,service_outage
+1888314,346423,True,Wed Oct 18 11:55:11 +0000 2017,@VerizonSupport Two months in a row my auto payment didn't work through your system. Most recently your system charge me $30 for a failed attempt,1888317,1888313.0,billing_payment_issue
+2671860,752327,True,Tue Oct 31 11:31:59 +0000 2017,@VerizonSupport DM?,2671861,2671859.0,support_request
+1463307,459637,True,Sun Nov 26 02:00:28 +0000 2017,"@VerizonSupport this is fun. it's not blizzards fault, according to them. it's not your fault, according to you. guess imma just wait for a miracle to happen. guess ill just watch netflix",,1463306.0,complaint_feedback
+2456551,703686,True,Wed Nov 15 04:58:39 +0000 2017,@VerizonSupport It's been done. Still an issue,,2456550.0,other
+1545391,478622,True,Sat Nov 04 06:03:37 +0000 2017,@VerizonSupport Just now.  Same thing,1545394,1545390.0,other
+1502842,468810,True,Tue Oct 17 18:30:50 +0000 2017,@VerizonSupport I don't like strangers knocking at my door... I think it's safe to say my neighbors don't either because most people don't answer.,1502844,1502841.0,complaint_feedback
+1838399,551044,True,Wed Oct 18 18:40:02 +0000 2017,@VerizonSupport They tell me that that is the limiting factor for upgrading our biz fios acct,1838398,1838400.0,installation_availability
+1503449,468865,True,Fri Nov 03 15:52:22 +0000 2017,@VerizonSupport @115990 What deals do you have,,1503080.0,billing_payment_issue
+322500,192826,True,Sat Oct 07 13:33:08 +0000 2017,@VerizonSupport the second is that your website goes into infinite redirect loops when you try to process single sign on so i can never load my acc page,,322498.0,account_issue
+1951219,579498,True,Sun Oct 29 14:21:00 +0000 2017,@VerizonSupport @31806 and you’re trying to charge me per episode of the current season 5. That’s ludicrous!,1951217,1951220.0,billing_payment_issue
+2518827,701393,True,Thu Nov 16 00:58:27 +0000 2017,@VerizonSupport Fios! And no service since yesterday,2518829,2518826.0,service_outage
+1729877,218568,True,Wed Oct 18 01:11:36 +0000 2017,@VerizonSupport my message - based on my own painful experience the last 10 mos - remains DO NOT SWITCH TO VERIZON FOR YOUR BUSINESS PHONE SYSTEM!!,,1729874.0,complaint_feedback
+1943171,577755,True,Mon Oct 30 04:07:16 +0000 2017,@VerizonSupport I’m now home and still have no service. It’s been over 4 hours. I deliver for a delivery app and can’t right now due to this. Please help.,1943172,1943170.0,service_outage
+2115121,563039,True,Thu Nov 09 22:48:31 +0000 2017,"@VerizonSupport Yes I’ve done that several times , Is there an issue with fiber optic strength in this area ?",2115122,2115120.0,internet_wifi_issue
+1469731,451186,True,Fri Nov 03 19:29:49 +0000 2017,"@VerizonSupport Yep.  Tried everything.  Some days it works, some days it cuts out",,1469730.0,internet_wifi_issue
+1242058,411349,True,Mon Oct 30 23:48:23 +0000 2017,@VerizonSupport Wired ethernet directly to the ONT.,1242059,1242057.0,internet_wifi_issue
+1469735,461125,True,Fri Nov 03 00:26:31 +0000 2017,@VerizonSupport Yes. SD feed is the same.,1469737,1469734.0,tv_channel_issue
+1621495,496866,True,Sun Nov 05 16:54:36 +0000 2017,"@VerizonSupport On anything that isn't capable of Ethernet, yes",1621497,1621494.0,internet_wifi_issue
+2421281,694257,True,Tue Nov 14 17:40:22 +0000 2017,"@VerizonSupport Reported? I asked why you don't offer home internet service in Green Bay, Wisconsin.",2421279,2421282.0,installation_availability
+837708,319351,True,Mon Oct 09 04:33:35 +0000 2017,@VerizonSupport Already following...,,837707.0,support_request
+150182,150251,True,Fri Nov 24 15:36:48 +0000 2017,@VerizonSupport Yes,150183,150181.0,other
+208122,165232,True,Thu Oct 05 00:58:43 +0000 2017,@VerizonSupport Now what?,,208121.0,other
+2247704,654996,True,Fri Nov 10 19:38:51 +0000 2017,"@VerizonSupport That’s right, on my MacBook, Windows, iPhone, iPad via Verizion FiOS (home). I haven’t tried the LTE.",2247703,2247705.0,internet_wifi_issue
+2951013,814900,True,Wed Nov 29 18:02:46 +0000 2017,@VerizonSupport Provide your customer service with faster resources. Don’t always want MORE Service want lower $. Entire lunch was wasted. So annoyed,2951015,2951012.0,complaint_feedback
+688296,284430,True,Thu Nov 23 14:59:32 +0000 2017,@VerizonSupport North Georgia 30528,688297,688295.0,installation_availability
+101351,138187,True,Thu Nov 30 17:08:16 +0000 2017,@VerizonSupport They never completed our auto pay or paperless when we transferred off family plan. We gave this over phone to Verizon rep. I was also awarded a $45 credit for the next three months due to data issues. And one line was supposed to be disconnected end of October that wasn’t.,101350,101352.0,billing_payment_issue
+1646521,503093,True,Mon Nov 06 02:30:46 +0000 2017,@VerizonSupport The fuck is that?,1646523,1646520.0,other
+567291,253055,True,Sun Dec 03 02:27:44 +0000 2017,"@VerizonSupport This was the message I received in DM: Our agent will be able to run some test to see what is going on.
+^FEM",,567290.0,support_request
+419291,118215,True,Tue Oct 10 05:41:07 +0000 2017,"@VerizonSupport It seems to be good again, I'll let you know if it cuts out again",419293,419290.0,internet_wifi_issue
+2457599,703918,True,Wed Nov 15 05:18:48 +0000 2017,@VerizonSupport @115990 I have sent a message to @115990,,2457598.0,support_request
+1576913,485794,True,Sat Nov 04 18:25:16 +0000 2017,"@VerizonSupport Took today off to wait for someone to set up our internet, bc there was there was an “issue” with our router.",1576911,1576915.0,router_equipment_issue
+715815,291282,True,Wed Oct 11 00:13:04 +0000 2017,@VerizonSupport Did not fix,,715814.0,other
+1491350,466347,True,Mon Oct 16 22:06:05 +0000 2017,@VerizonSupport My cellular services,1491349,1491351.0,mobile_phone_issue
+1852212,554332,True,Mon Oct 30 01:07:22 +0000 2017,@VerizonSupport No router looks good,1852211,1852213.0,router_equipment_issue
+2798726,780856,True,Tue Nov 21 23:33:38 +0000 2017,"@VerizonSupport DSL unfortunately, very inconsistent connection. And even when it is working, it's pitiful to pay that much for a connection that never even reaches 3Mbs.",2798728,2798725.0,internet_wifi_issue
+2597526,382165,True,Fri Nov 17 04:18:48 +0000 2017,"@VerizonSupport Yep! I optimized my connection again to, have to check out main one.",,2597525.0,internet_wifi_issue
+1032129,364222,True,Mon Oct 23 05:36:17 +0000 2017,"@VerizonSupport So we know what it isn't. Do we know what it is? 
+I spent 8 hours already working on this issue, 3 hours with tech support. https://t.co/wQVGs1K9tw",,1032127.0,internet_wifi_issue
+775905,305399,True,Sat Oct 14 23:02:57 +0000 2017,@VerizonSupport So tonight it seems the Penguins game is  not available. This is happening every single night,,775902.0,tv_channel_issue
+2208987,645744,True,Fri Nov 10 03:31:34 +0000 2017,@VerizonSupport wireless connection,2208985,2208988.0,internet_wifi_issue
+67937,131502,True,Thu Nov 30 08:59:21 +0000 2017,"@VerizonSupport Wells Fargo. And I have used this multiple times and I’ve not experienced any issues until now. And I recently made a purchase a few minutes ago with the same card, and I had no issues. I am refraining from calling to make the payment, due to the $3 fee.",67935,67938.0,other
+1340711,432706,True,Mon Oct 16 14:26:58 +0000 2017,@VerizonSupport I need it faster than what it is I need hi speed internet,1340712,1340710.0,internet_wifi_issue
+1941717,325889,True,Mon Oct 30 00:46:29 +0000 2017,@VerizonSupport Ok,,1941712.0,other
+1639972,501408,True,Mon Nov 06 00:14:07 +0000 2017,@VerizonSupport See why I never want to be your customer.,,1639971.0,complaint_feedback
+1771081,532383,True,Wed Nov 08 02:03:26 +0000 2017,@VerizonSupport We can put a robot on mars and land a rocket back from space but we can’t have decent internet,1771079,1771013.0,complaint_feedback
+724766,293507,True,Wed Oct 11 03:59:18 +0000 2017,"@VerizonSupport I am, still will not load it. https://t.co/gedjFNWasa",724765,724767.0,internet_wifi_issue
+1428785,451882,True,Thu Nov 02 07:08:35 +0000 2017,@VerizonSupport yup &amp; its maintenance/outage justlike I said originally so howlong till u giveme my service back since u didnt tell me u were even taking it,1428786,1428784.0,service_outage
+683434,168875,True,Thu Nov 23 11:51:23 +0000 2017,"@VerizonSupport I'm curious. You people really do know that just about every device is connected wirelessly, right? You just ask that to try to avoid responsibility, right? Wireless, using Verizon's POS router!",683431,683436.0,internet_wifi_issue
+747130,298611,True,Wed Oct 11 16:47:22 +0000 2017,@VerizonSupport thank you. it was for a cellular device,747128,747131.0,mobile_phone_issue
+1425186,451112,True,Thu Nov 02 13:05:04 +0000 2017,"@VerizonSupport I was trying to add a channel, the chat keeps getting disconnected. I spoke with 3 agents and i had to explain everything again.","1425187,1425188",1425184.0,tv_channel_issue
+2867404,795969,True,Tue Nov 28 01:01:22 +0000 2017,@VerizonSupport I was just online with the rep and instead she wait until I call the person I’m transferring it over to she hung up . Like this is what im talking about I’ll try again tomorrow but if i am not satisfied I’m canceling everything I have with you guys your customer service sucks,2867403,2867405.0,support_request
+13718,118880,True,Wed Nov 01 02:38:05 +0000 2017,@VerizonSupport Here you go https://t.co/8u2GWVuEyF,13719,13716.0,other
+934051,341570,True,Sat Oct 21 17:21:33 +0000 2017,@VerizonSupport Verizon Mgr was v c,,934050.0,other
+410886,213001,True,Tue Oct 10 00:11:55 +0000 2017,@VerizonSupport Tells me I’m not subscribed. But I am. Chat Support says I can’t watch playoff games. Playoffs don’t start for 7 months.,410888,410885.0,tv_channel_issue
+1248180,412850,True,Mon Oct 16 04:05:32 +0000 2017,@VerizonSupport I thought it was the apps too but its not like Netflix I tried using it with wifi &amp; it said it couldn’t connect but with my data it did work,1248181,1248179.0,internet_wifi_issue
+2851719,341243,True,Mon Nov 27 19:45:51 +0000 2017,@VerizonSupport I'm looking for it,,2851717.0,other
+1644962,502663,True,Mon Nov 06 01:24:14 +0000 2017,@VerizonSupport Paying nearly $250/month…an expense I can no longer afford,,1644961.0,billing_payment_issue
+80483,133873,True,Fri Dec 01 15:53:39 +0000 2017,@VerizonSupport Wireless.,,80482.0,mobile_phone_issue
+121304,143010,True,Thu Nov 23 23:46:37 +0000 2017,"@VerizonSupport No, you're not.  Verizon said Buffalo will never get FIOS, because it has to be installed city wide in a reasonable amount of time.
+
+Even after Verizon was gifted dark fiber, with the promise they would build out.",121306,121303.0,installation_availability
+2901516,803705,True,Tue Nov 28 18:11:52 +0000 2017,@VerizonSupport @115990 Thanks!,2901515,2901517.0,complaint_feedback
+2358087,638688,True,Mon Nov 13 20:19:37 +0000 2017,"@VerizonSupport While I appreciate all the Twitter attention you are giving me, it would be better if Verizon didn't engage in what @92317 describes as systemic, endemic dishonesty in your services. I'm working with your agent to get my money back.",,2358085.0,complaint_feedback
+2231537,651144,True,Wed Nov 15 16:04:20 +0000 2017,@VerizonSupport I DM’d and no reply. Another $500 bill and calls continuing saying I owe money. Very frustrated,2231538,2231535.0,billing_payment_issue
+1751245,527658,True,Tue Nov 07 21:33:54 +0000 2017,@VerizonSupport There is no button to click. My dilemma,"1751246,1751247,1751248,1751249,1751250",1751244.0,account_issue
+2525948,719244,True,Thu Nov 16 05:11:46 +0000 2017,"@VerizonSupport VZ Test site having issues. Went back to speedtest. Wired, iMac, straight to VZ router: https://t.co/txHWSNVNsW . https://t.co/AcVejQzZFI https://t.co/KcCCMCdI1a",2525949,2525947.0,internet_wifi_issue
+1533461,475576,True,Fri Nov 03 23:45:26 +0000 2017,@VerizonSupport i unplug the ONT. router still orange.,,1533460.0,router_equipment_issue
+8902,117596,True,Wed Nov 01 00:48:20 +0000 2017,@VerizonSupport We have - but you’re not available here... wish you were,8904,8901.0,installation_availability
+958106,347339,True,Sun Oct 22 01:02:14 +0000 2017,"@VerizonSupport Finally, I was told that FiOS has to cancel the order and re-order with a phone number so FiOS can port over old number.",,958096.0,installation_availability
+2446657,701393,True,Wed Nov 15 01:43:31 +0000 2017,@VerizonSupport And yes my husband did all that ! Nothing worked,2446659,2446655.0,internet_wifi_issue
+3971,116662,True,Sat Nov 25 23:45:20 +0000 2017,@VerizonSupport ty,3970,3972.0,complaint_feedback
+792343,308938,True,Thu Oct 12 16:06:21 +0000 2017,@VerizonSupport Hello...,792345,792341.0,support_request
+1428771,451882,True,Thu Nov 02 06:25:56 +0000 2017,"@VerizonSupport Battery is good, modem is good, everything on my end is good it is just not receiving a broadband connection for some reason","1428772,1428773",1428770.0,internet_wifi_issue
+1933578,575366,True,Sun Oct 29 00:08:44 +0000 2017,@VerizonSupport Thank you I did actually find the right number. Verizon Technician is scheduled! Very nerve wracking to have them without phones!,,1933577.0,mobile_phone_issue
+2671849,737284,True,Tue Oct 31 10:33:22 +0000 2017,@VerizonSupport Will we get hit with penalties for switching?,2671848,2671850.0,installation_availability
+658410,276756,True,Wed Nov 22 23:50:16 +0000 2017,@VerizonSupport Just didnand it’s doing the same thing. Only this time it’ll refresh every 10 seconds instead of every 5.,658411,658409.0,other
+1048636,200590,True,Sat Oct 14 19:53:59 +0000 2017,@VerizonSupport yes it is but it is still rejecting the correct password.,1048634,1048637.0,account_issue
+2421268,695508,True,Tue Nov 14 18:19:03 +0000 2017,@VerizonSupport Nobody can give me answers or return my money how is this right ?,,2421264.0,billing_payment_issue
+322485,192826,True,Sat Oct 07 13:54:13 +0000 2017,@VerizonSupport connections from any device in the house when we wake up in the morning. every. single. day.,,322484.0,internet_wifi_issue
+2127836,626442,True,Wed Nov 08 19:10:04 +0000 2017,"@VerizonSupport Screen says “outage in your area, technicians will resolve at (time). Can’t believe there is an outage 4 nights in a row always at same time.",,2127835.0,service_outage
+719625,159497,True,Wed Oct 11 02:24:05 +0000 2017,"@VerizonSupport That is a wired speed test, I just took a picture of my laptop with my phone",719626,719623.0,internet_wifi_issue
+2541948,127016,True,Thu Nov 16 12:12:39 +0000 2017,@VerizonSupport I screenshotted that from my chst with verizon,2541951,2541946.0,other
+2704659,759635,True,Sun Nov 19 23:52:01 +0000 2017,@VerizonSupport missing therefore unavailable to watch -- however; sometimes they are available on a mobile device; but not TV on demand,2704660,2704658.0,tv_channel_issue
+1030082,363723,True,Mon Oct 23 06:10:59 +0000 2017,@VerizonSupport 😪 https://t.co/kXzynrHHaG,,1030081.0,other
+2533392,720918,True,Mon Oct 30 12:41:17 +0000 2017,@VerizonSupport Same situation after doing this.  I’ve also unplugged the router and plugged it back in,,2533391.0,router_equipment_issue
+2360937,681701,True,Mon Nov 13 21:22:11 +0000 2017,@VerizonSupport Love how quick y’all are!  Looking at the availability and bundle offers now.,2360938,2360668.0,installation_availability
+1625645,497843,True,Sun Nov 05 18:22:14 +0000 2017,@VerizonSupport Trying now,1625643,1625649.0,other
+695659,143890,True,Thu Nov 23 15:58:17 +0000 2017,@VerizonSupport Are you guys working today?,695654,695672.0,support_request
+2457609,703919,True,Wed Nov 15 05:11:16 +0000 2017,@VerizonSupport I️ don’t know how to do that,2457608,2457610.0,other
+896901,332983,True,Sat Oct 21 01:19:48 +0000 2017,@VerizonSupport Waiting over 2 minutes for page to load. Now only some words no speed test no icons to click. Page keeps reloading like broken record.,904566,896899.0,internet_wifi_issue
+890219,188935,True,Sat Oct 21 00:27:57 +0000 2017,"@VerizonSupport Page Not Found
+
+Page requested could not be found",890220,890218.0,account_issue
+2688492,755923,True,Sun Nov 19 14:03:36 +0000 2017,@VerizonSupport Nope. But I sure can't connect to anything.,2688491,2688493.0,internet_wifi_issue
+569748,253728,True,Sun Dec 03 03:03:03 +0000 2017,@VerizonSupport I would just like my new phone # changed to my old #,,569747.0,mobile_phone_issue
+412098,213313,True,Tue Oct 10 00:57:18 +0000 2017,@VerizonSupport ...which proves @115722 is purposely buffering the web streaming on mac. So thanks @115722 good job👎🏼,412102,412096.0,internet_wifi_issue
+840648,320016,True,Fri Oct 13 12:47:43 +0000 2017,@VerizonSupport Put any of that in the actual options.  Stop arguing with me and just make the process better,840649,840647.0,complaint_feedback
+1927703,341569,True,Tue Oct 31 21:44:39 +0000 2017,@VerizonSupport The link you sent doesn’t load,1927705,1927702.0,support_request
+2538537,721997,True,Thu Nov 16 09:37:31 +0000 2017,@VerizonSupport Can't process. Try later,2538536,2538538.0,account_issue
+896891,332983,True,Sat Oct 21 01:54:37 +0000 2017,"@VerizonSupport 1.48 down, 53 ping, 0.25 up. Much btter than 0.11 but not what I used to get.",,896890.0,internet_wifi_issue
+2358100,638688,True,Mon Nov 13 20:06:27 +0000 2017,@VerizonSupport I was promised local TV without boxes; now I'm told I have to have them or otherwise they aren't available to me. What am I paying for then?,"2358098,2358101",2358102.0,tv_channel_issue
+101366,138189,True,Wed Nov 29 16:58:34 +0000 2017,@VerizonSupport Nope!,101365,101367.0,other
+1026092,362786,True,Mon Oct 23 00:26:49 +0000 2017,@VerizonSupport tried it. Nothing...,1026093,1026091.0,other
+201052,163470,True,Wed Oct 04 05:37:25 +0000 2017,@VerizonSupport Wish I knew about that before I worked on my paper. At least now I have an excuse as to why I couldn't finish it,201054,201051.0,other
+347439,198743,True,Sun Oct 08 05:51:13 +0000 2017,"@VerizonSupport I spoke hastily, my internet has returned",347442,347437.0,internet_wifi_issue
+362219,201810,True,Sun Oct 08 18:29:22 +0000 2017,@VerizonSupport I don't see anything that says WiFi Analyzer.,362220,362217.0,internet_wifi_issue
+2748722,769613,True,Mon Nov 20 22:48:38 +0000 2017,@VerizonSupport I already turned it on then back on. How do I reboot the cable box?,2748721,2748723.0,tv_channel_issue
+217014,167706,True,Wed Oct 04 19:18:06 +0000 2017,@VerizonSupport Who should i speak to,217012,217015.0,support_request
+775176,305209,True,Thu Oct 12 02:39:03 +0000 2017,@VerizonSupport  https://t.co/7aAOoipOtC,,775175.0,other
+1186938,399105,True,Wed Oct 25 01:32:23 +0000 2017,"@VerizonSupport Tired of being rerouted to different departments, only to end back up in customer services",1186942,1186936.0,support_request
+2337659,620335,True,Fri Oct 20 05:23:26 +0000 2017,"@VerizonSupport I see a world light, and I see a WiFi light. They are both white, but it’ll most likely crash within the next 20 mins like it always does",2337658,2337660.0,router_equipment_issue
+750988,299512,True,Fri Oct 13 23:31:52 +0000 2017,@VerizonSupport i already tried google chrome and safari. neither worked.,750987,750989.0,account_issue
+942562,341570,True,Sat Oct 21 17:14:13 +0000 2017,@VerizonSupport Verizon Mgr verified that I have called multiple time in past years requesting listing fee deleted.  Never done. Charges kept accruing,,942560.0,billing_payment_issue
+2985963,823338,True,Thu Nov 30 07:06:05 +0000 2017,"@VerizonSupport Have done that. Waited 10 seconds, reconnected. Same issue.",2985961,2985965.0,router_equipment_issue
+462113,224820,True,Fri Dec 01 01:28:10 +0000 2017,@VerizonSupport It happens within the IOS USA application and in safari on my iPhone.  If also happens on Firefox and Safari on my Mac.  I am going to https://t.co/IquwA5nRvB to start the process.,462112,462114.0,account_issue
+1503639,459639,True,Sun Nov 26 02:36:05 +0000 2017,@VerizonSupport I already did! And again why am I waiting on the phone for almost 2 hours with no answer?!,,1503638.0,support_request
+935215,341797,True,Mon Oct 23 23:36:32 +0000 2017,@VerizonSupport Doh!  I forgot.  Switching to DM,,935214.0,support_request
+2257270,657383,True,Sat Nov 11 00:20:15 +0000 2017,"@VerizonSupport MyFios App works, but firefox, chrome, safari don't work using my https://t.co/M8lY563wjK",2257269,2257271.0,account_issue
+1472666,461829,True,Mon Oct 16 21:12:49 +0000 2017,@VerizonSupport Somehow my password got changed for some reason.,1472668,1472665.0,account_issue
+410299,212875,True,Mon Oct 09 23:42:38 +0000 2017,"@VerizonSupport It's fine, I got off the phone with the techs and they finally gave me a credible answer",410301,410298.0,support_request
+666627,274039,True,Thu Nov 23 03:18:46 +0000 2017,@VerizonSupport @30421 will DM you. But don’t reboot my system because I’m recording!,666628,666626.0,support_request
+125620,144168,True,Sat Nov 25 07:53:39 +0000 2017,@VerizonSupport I could look. I don’t understand why the internet is so bad though. I lose connection all the time,125621,125619.0,internet_wifi_issue
+2426484,696771,True,Tue Nov 14 19:22:08 +0000 2017,@VerizonSupport @115990 Terry White is the customer. Acct 0425415710,,2426483.0,account_issue
+436030,218568,True,Tue Oct 10 17:30:49 +0000 2017,"@VerizonSupport great example here of how to do it wrong. I've spent hours talking with a dozen Verizon reps, yet there aren't any notes - so each time I",436032,436029.0,support_request
+918259,337996,True,Sat Oct 14 21:30:52 +0000 2017,@VerizonSupport I have been for the last 2 years! Still no service! You got demand here :),,918258.0,installation_availability
+188217,160158,True,Wed Oct 04 03:22:35 +0000 2017,"@VerizonSupport Yes, I own a custom AV installation business. This is what I do. It's on your end.",,188207.0,internet_wifi_issue
+1943470,577824,True,Mon Oct 30 03:26:02 +0000 2017,"@VerizonSupport Yes but it either says something like ""unable to join"" or ""incorrect password""",1943471,1943469.0,internet_wifi_issue
+7964,532406,True,Fri Dec 01 02:41:06 +0000 2017,@VerizonSupport Was tooken care of thanks,1771162,7948.0,complaint_feedback
+1952445,579764,True,Sun Oct 29 15:52:58 +0000 2017,@VerizonSupport I have to do that at least once a week.,1952447,1952444.0,router_equipment_issue
+366429,202785,True,Sun Oct 08 20:26:54 +0000 2017,@VerizonSupport @115990 Ok thank s,,366428.0,complaint_feedback
+2435139,179216,True,Sun Oct 29 14:12:19 +0000 2017,@VerizonSupport Award ceremony to wait for somebody that was apparently never coming ..keep up the good work,,2435137.0,complaint_feedback
+1803876,542016,True,Wed Oct 18 01:41:48 +0000 2017,@VerizonSupport Unless you can get my internet working again no...,1803873,1803879.0,internet_wifi_issue
+722758,293062,True,Wed Oct 11 20:22:18 +0000 2017,@VerizonSupport For caring about my loyalty the people on the phone didn’t even ask why I was disconnecting. Not even a small try to keep me. Just “when?”,722759,722756.0,complaint_feedback
+961516,348168,True,Sun Oct 22 03:12:28 +0000 2017,@VerizonSupport Thanks for ur response tho I guess...,,961515.0,complaint_feedback
+1760057,423936,True,Tue Nov 07 23:09:18 +0000 2017,@VerizonSupport Hasn't been connecting for days now,1760056,1760058.0,internet_wifi_issue
+1765658,531036,True,Wed Nov 08 00:21:36 +0000 2017,@VerizonSupport Yes,1765659,1765657.0,other
+2865733,676924,True,Tue Nov 28 00:25:25 +0000 2017,"@VerizonSupport Been on hold on a Verizon Store using your locations phone.
+What's the excuse? https://t.co/KF9G3MVMdg",2865731,2865735.0,support_request
+510740,237361,True,Fri Dec 01 22:34:32 +0000 2017,@VerizonSupport We use @116136 at the company (FIOS is not available here) and myself and most of our employees use @115722 at home. Our systems work great from home (everything we run is in the cloud) but we are pulling our hair out re comcast at the office...,510738,510741.0,installation_availability
+1700394,515639,True,Mon Nov 06 21:18:05 +0000 2017,@VerizonSupport @258765  https://t.co/ZrRomZ4vLs,,1700391.0,other
+2696374,757282,True,Sun Nov 19 18:28:38 +0000 2017,"@VerizonSupport Yes, it says "" the subscriber you have dialed is not in service"".",,2696373.0,mobile_phone_issue
+1395297,444480,True,Thu Oct 19 13:19:22 +0000 2017,@VerizonSupport Well at the corner of Cain Rd and Versailles plank rd the corner poke national grid said it’s not there’s it’s Cable   said it’s verzion,,1395296.0,other
+1831269,549491,True,Wed Oct 18 05:57:30 +0000 2017,@VerizonSupport Lol this shit is getting ridiculous,,1831268.0,complaint_feedback
+1803880,542016,True,Wed Oct 18 01:38:59 +0000 2017,@VerizonSupport It said a 12 minute wait time. I have been on hold for 30 minutes. For the second time due to the first person hanging up on me.,1803879,1803881.0,support_request
+1462061,191379,True,Thu Nov 02 19:17:45 +0000 2017,@VerizonSupport Wireless phone,1462063,1462060.0,mobile_phone_issue
+1465375,460134,True,Thu Nov 02 19:33:33 +0000 2017,@VerizonSupport It is but orange/red,"1465377,1465378",1465374.0,router_equipment_issue
+1966132,582740,True,Tue Oct 31 11:10:57 +0000 2017,"@VerizonSupport ...because, even though I am a 15 year Verizon customer, and a 7.5 year FiOS customer, I will solve this problems by looking at other",,1966131.0,complaint_feedback
+1460772,459051,True,Mon Oct 16 20:30:00 +0000 2017,@VerizonSupport It's difficult to have this conversation 140 characters at a time. Would rather speak to someone on the phone (not someone in sales dept),,1460770.0,support_request
+408634,212415,True,Mon Oct 09 23:00:39 +0000 2017,@VerizonSupport Please send me a number to call so someone can fix this bait &amp; switch. I've been on hold for over an hour. A direct line would be wonderful.,408635,408633.0,support_request
+2648877,303436,True,Sun Nov 19 01:23:56 +0000 2017,@VerizonSupport I just got hung up on AZgAin!!!!!!!  2 hours. Waiting,2648876,2648878.0,support_request
+1502830,468808,True,Mon Oct 16 23:13:42 +0000 2017,@VerizonSupport we know the whole area is out. Please get 583 back before 8pm,,1502829.0,service_outage
+828136,317286,True,Fri Oct 13 21:55:19 +0000 2017,@VerizonSupport Right next to it,828137,828135.0,other
